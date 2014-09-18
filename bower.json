@@ -1,0 +1,14 @@
+{
+    "name": "jeremy-site",
+    "description": "jeremy's personal website",
+    "version": "0.0.0",
+    "homepage": "",
+    "license": "ISC",
+    "dependencies": {
+        "angular": "*",
+        "angular-route": "*",
+        "angular-loader": "*",
+        "angular-mocks": "*",
+        "bootstrap": "*"
+    }
+}

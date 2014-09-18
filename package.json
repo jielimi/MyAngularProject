@@ -1,0 +1,17 @@
+{
+	"name": "jeremy-site",
+	"author": "Jeremy",
+	"version": "0.0.0",
+	"description": "Jeremy's personal website",
+	"license": "ISC",
+	"scripts": {
+		"postinstall": "bower install"
+	},
+	"devDependencies": {
+		"bower": "*",
+		"grunt": "*",
+		"grunt-browserify": "*",
+		"grunt-contrib-copy": "*",
+		"grunt-contrib-uglify": "*"
+	}
+}
